@@ -12,7 +12,7 @@ Cet exercice permet de travailler différents les scope, tableau, boucle, itéra
 ------
 Write a function, reverseArray(), that takes in an array as an argument and returns a new array with the elements in the reverse order.
 
-2 - greetAliens
+2 - greetAliens()
 ---
 Écrivez une fonction, greetAliens(), qui prend en compte un tableau de chaînes et utilise une forboucle pour imprimer un message d'accueil avec chaque chaîne du tableau.
 
