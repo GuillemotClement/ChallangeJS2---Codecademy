@@ -43,6 +43,9 @@ La .forEach()fonction doit s'appliquer politelyDecline()directement ; il ne doit
 
 Vous pouvez utiliser n’importe quelle technique pour accomplir cette tâche.
 
+7 - sortYears()
+---
+Écrivez une fonction sortYears()qui prend un tableau d'années et, à l'aide de la méthode intégrée.sort() , renvoie ce tableau avec les années triées par ordre décroissant.
 
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
