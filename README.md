@@ -21,6 +21,12 @@ La salutation doit prendre le format suivant :
 
 Remarque : Vous avez peut-être remarqué à quel point il serait pratique d'utiliser .forEach(), mais vous n'êtes pas autorisé à l'utiliser ici. Ne vous inquiétez pas, vous aurez de nombreuses occasions d'utiliser les méthodes intégrées plus tard !
 
+3 - convertToBaby()
+---
+Écrivez une fonction, convertToBaby(), qui prend un tableau comme argument et, à l'aide d'une boucle, renvoie un nouveau tableau avec chaque chaîne du tableau précédée de 'baby '.
+
+Remarque : Vous avez peut-être remarqué à quel point il serait pratique d'utiliser map, mais vous n'êtes pas autorisé à l'utiliser ici. Ne vous inquiétez pas, vous aurez de nombreuses occasions d'utiliser les méthodes intégrées plus tard !
+
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
