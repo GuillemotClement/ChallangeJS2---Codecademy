@@ -55,9 +55,19 @@ Vous pouvez utiliser n’importe quelle technique pour accomplir cette tâche.
 ---
 Écrivez une fonction isTheDinnerVegan()qui prend en compte un tableau d'objets alimentaires au format :
 
-`{name: 'cabbage', source: 'plant' };``
+`{name: 'cabbage', source: 'plant' };`
 
 et renvoie une valeur booléenne selon que chaque élément du tableau a ou non une source 'plant'
+
+10 - sortSpeciesByTeeth()
+---
+Écrivez une fonction `sortSpeciesByTeeth()` qui prend en compte un tableau d'objets espèces au format :
+
+`{speciesName: 'shark', numTeeth: 50 }`
+
+et trie le tableau par ordre croissant en fonction du nombre moyen de dents que possède l'espèce `numTeeth` .
+
+Vous devrez accéder `.numTeeth` à la propriété de chaque objet. N'hésitez pas à écrire une fonction de comparaison nommée ou à utiliser une fonction anonyme pour votre argument `.sort()`.
 
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
