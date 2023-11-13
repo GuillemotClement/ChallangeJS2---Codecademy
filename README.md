@@ -27,6 +27,23 @@ Remarque : Vous avez peut-être remarqué à quel point il serait pratique d'uti
 
 Remarque : Vous avez peut-être remarqué à quel point il serait pratique d'utiliser map, mais vous n'êtes pas autorisé à l'utiliser ici. Ne vous inquiétez pas, vous aurez de nombreuses occasions d'utiliser les méthodes intégrées plus tard !
 
+4 - declineEveryThing() and acceptEveryThing()
+---
+Écrivez une fonction declineEverything()qui prend un tableau de chaînes et, à l'aide de .forEach(), parcourt chaque élément du tableau et appelle politelyDecline()avec chacun d'eux.
+
+La .forEach()fonction doit s'appliquer politelyDecline()directement ; il ne doit PAS simplement recevoir une fonction d'argument qui utilise politelyDecline() .
+
+5 - squareNums()
+---
+Écrivez une fonction, squareNums(), qui prend un tableau de nombres et, en utilisant .map(), renvoie un tableau avec le carré de chacun des éléments de ce tableau.
+
+6 - shoutGreetings()
+---
+Écrivez une fonction shoutGreetings()qui prend un tableau de chaînes et renvoie un nouveau tableau. Ce nouveau tableau doit contenir toutes les chaînes du tableau d'arguments mais avec des lettres majuscules et un point d'exclamation ajouté à la fin : 'heya'deviendra'HEYA!'
+
+Vous pouvez utiliser n’importe quelle technique pour accomplir cette tâche.
+
+
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
