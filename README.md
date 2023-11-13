@@ -47,6 +47,18 @@ Vous pouvez utiliser n’importe quelle technique pour accomplir cette tâche.
 ---
 Écrivez une fonction sortYears()qui prend un tableau d'années et, à l'aide de la méthode intégrée.sort() , renvoie ce tableau avec les années triées par ordre décroissant.
 
+8 - justCoolStuff()
+---
+Écrivez une fonction justCoolStuff()qui prend deux tableaux de chaînes et, à l'aide de la méthode intégrée.filter() , renvoie un tableau avec les éléments présents dans les deux tableaux.
+
+9 - isTheDinnerVegan()
+---
+Écrivez une fonction isTheDinnerVegan()qui prend en compte un tableau d'objets alimentaires au format :
+
+`{name: 'cabbage', source: 'plant' };``
+
+et renvoie une valeur booléenne selon que chaque élément du tableau a ou non une source 'plant'
+
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
