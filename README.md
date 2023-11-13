@@ -73,6 +73,21 @@ Vous devrez accéder `.numTeeth` à la propriété de chaque objet. N'hésitez p
 ---
 Écrivez une fonction, `findMyKeys()`, qui prend en compte un tableau de chaînes pouvant ou non contenir `'keys'`. Si les clés sont dans le tableau, votre fonction doit renvoyer l'index auquel elles peuvent être trouvées. S'ils ne sont pas dans le tableau, votre fonction doit renvoyer `-1`.
 
+12 - dogFactory()
+---
+1. Écrivez une fonction, `dogFactory()`. Cela devrait:
+
+- avoir 3 paramètres : `name`, `breed`, et `weight`(dans cet ordre)
+- attendre `name` et `breed` être des chaînes
+- attendez-vous `weight` à être un numéro
+- renvoyer un objet
+
+avoir chacun de ces paramètres comme clés sur l'objet retourné renvoyé avec les valeurs des arguments qui ont été transmis
+
+2. Ajoutez des getters et des setters pour chacune des trois propriétés et modifiez les noms des propriétés pour qu'ils soient précédés d'un trait de soulignement.
+
+3. Ajoutez deux méthodes à votre objet : `.bark()` qui renvoie 'ruff! fraise!' et `.eatTooManyTreats()` qui devrait incrémenter la `weightpropriété` de 1.
+
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
