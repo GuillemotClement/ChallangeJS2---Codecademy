@@ -69,6 +69,10 @@ et trie le tableau par ordre croissant en fonction du nombre moyen de dents que 
 
 Vous devrez accéder `.numTeeth` à la propriété de chaque objet. N'hésitez pas à écrire une fonction de comparaison nommée ou à utiliser une fonction anonyme pour votre argument `.sort()`.
 
+11 - findMyKeys()
+---
+Écrivez une fonction, `findMyKeys()`, qui prend en compte un tableau de chaînes pouvant ou non contenir `'keys'`. Si les clés sont dans le tableau, votre fonction doit renvoyer l'index auquel elles peuvent être trouvées. S'ils ne sont pas dans le tableau, votre fonction doit renvoyer `-1`.
+
 ## ![Amelioration Logo](/ressource/ameliorationLogo.png) Amélioration future
 
 
